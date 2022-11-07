@@ -15,3 +15,5 @@
 //undefined
 //null
 //приведення цих випадків до булевого випадку, завжди дає false 
+const Object1={};
+const Object2=null;
